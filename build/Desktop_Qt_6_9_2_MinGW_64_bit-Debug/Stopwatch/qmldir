@@ -1,0 +1,6 @@
+module Stopwatch
+typeinfo appStopwatch.qmltypes
+prefer :/qt/qml/Stopwatch/
+Main 1.0 Main.qml
+depends QtQuick
+

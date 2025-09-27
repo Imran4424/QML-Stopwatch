@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Stopwatch/">
+    <file alias="Main.qml">C:/Users/ImranHossain/Documents/Qt/Stopwatch/Main.qml</file>
+  </qresource>
+</RCC>
+

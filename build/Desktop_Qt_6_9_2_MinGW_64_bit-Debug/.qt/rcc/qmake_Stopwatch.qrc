@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Stopwatch">
+    <file alias="qmldir">C:/Users/ImranHossain/Documents/Qt/Stopwatch/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/Stopwatch/qmldir</file>
+  </qresource>
+</RCC>
+
