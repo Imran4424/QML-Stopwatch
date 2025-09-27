@@ -52,13 +52,15 @@ ApplicationWindow {
                 const miliSeconds = rootWindow.elapsedMiliSeconds % 1000
                 const totalSeconds = Math.floor(rootWindow.elapsedMiliSeconds / 1000)
                 const seconds = totalSeconds % 60
-                const minutes = Math.floor(totalSeconds / 60)
+                const totalMinutes = Math.floor(totalSeconds / 60)
+                const minutes = totalMinutes % 60
+                const hours = Math.floor(totalMinutes / 60)
 
                 function pad(n, w = 2) {
                     return n.toString().padStart(w, "0")
                 }
 
-                return `${pad(minutes)}:${pad(seconds)}.${(miliSeconds/10|0).toString().padStart(2,"0")}`
+                return `${pad(hours)}:${pad(minutes)}:${pad(seconds)}.${(miliSeconds/10|0).toString().padStart(2,"0")}`
             }
         }
 

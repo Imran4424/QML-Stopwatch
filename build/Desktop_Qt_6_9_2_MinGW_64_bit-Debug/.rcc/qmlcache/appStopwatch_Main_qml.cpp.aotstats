@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 18,
-                        "durationMicroseconds": 112,
+                        "durationMicroseconds": 115,
                         "errorMessage": "Cannot retrieve a non-object type by ID: rootWindow",
                         "functionName": "running",
                         "line": 23
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 22,
-                        "durationMicroseconds": 51,
+                        "durationMicroseconds": 52,
                         "errorMessage": "Cannot retrieve a non-object type by ID: rootWindow",
                         "functionName": "onTriggered",
                         "line": 24
@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 23,
-                        "durationMicroseconds": 196,
+                        "durationMicroseconds": 214,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 30
@@ -62,7 +62,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 37,
-                        "durationMicroseconds": 32,
+                        "durationMicroseconds": 33,
                         "errorMessage": "Cannot access value for name implicitHeight",
                         "functionName": "preferredHeight",
                         "line": 43
@@ -81,7 +81,7 @@
                         "durationMicroseconds": 0,
                         "errorMessage": "Could not find property \"text\".",
                         "functionName": "text",
-                        "line": 76
+                        "line": 78
                     },
                     {
                         "codegenSuccessful": false,
@@ -89,7 +89,7 @@
                         "durationMicroseconds": 0,
                         "errorMessage": "Could not find signal \"clicked\".",
                         "functionName": "onClicked",
-                        "line": 79
+                        "line": 81
                     },
                     {
                         "codegenSuccessful": false,
@@ -97,7 +97,7 @@
                         "durationMicroseconds": 0,
                         "errorMessage": "Could not find property \"enabled\".",
                         "functionName": "enabled",
-                        "line": 84
+                        "line": 86
                     },
                     {
                         "codegenSuccessful": false,
@@ -105,7 +105,7 @@
                         "durationMicroseconds": 0,
                         "errorMessage": "Could not find signal \"clicked\".",
                         "functionName": "onClicked",
-                        "line": 87
+                        "line": 89
                     }
                 ],
                 "filePath": "C:/Users/ImranHossain/Documents/Qt/Stopwatch/Main.qml"

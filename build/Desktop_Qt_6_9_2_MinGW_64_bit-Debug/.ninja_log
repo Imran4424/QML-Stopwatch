@@ -62,3 +62,16 @@
 714	792	7806935947725187	CMakeFiles/appStopwatch.dir/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/.qt/rcc/qrc_appStopwatch_raw_qml_0.cpp.obj	eb32076e7a559b3
 710	3442	7806935947685294	CMakeFiles/appStopwatch.dir/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/.rcc/qmlcache/appStopwatch_StylishButton_qml.cpp.obj	7f80a72c47ef0084
 3442	3794	7806935975012075	appStopwatch.exe	aa2fee74857740fa
+53	125	7806942425510330	.qt/appStopwatch_qml.txt	53105faa0a2ec0b6
+53	125	7806942425510330	C:/Users/ImranHossain/Documents/Qt/Stopwatch/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/.qt/appStopwatch_qml.txt	53105faa0a2ec0b6
+61	542	7806942429629307	.qt/qml_imports/appStopwatch_build.cmake	13b77c41319e1184
+61	542	7806942429629307	C:/Users/ImranHossain/Documents/Qt/Stopwatch/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/.qt/qml_imports/appStopwatch_build.cmake	13b77c41319e1184
+550	612	7806942430357362	.qt/rcc/qrc_appStopwatch_raw_qml_0.cpp	9b51b3d7fea72499
+550	612	7806942430357362	C:/Users/ImranHossain/Documents/Qt/Stopwatch/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/.qt/rcc/qrc_appStopwatch_raw_qml_0.cpp	9b51b3d7fea72499
+542	725	7806942431394591	.rcc/qmlcache/appStopwatch_Main_qml.cpp	1961ed911b4d737
+542	725	7806942431394591	.rcc/qmlcache/appStopwatch_Main_qml.cpp.aotstats	1961ed911b4d737
+542	725	7806942431394591	C:/Users/ImranHossain/Documents/Qt/Stopwatch/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/.rcc/qmlcache/appStopwatch_Main_qml.cpp	1961ed911b4d737
+542	725	7806942431394591	C:/Users/ImranHossain/Documents/Qt/Stopwatch/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/.rcc/qmlcache/appStopwatch_Main_qml.cpp.aotstats	1961ed911b4d737
+729	809	7806942431594067	CMakeFiles/appStopwatch.dir/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/.qt/rcc/qrc_appStopwatch_raw_qml_0.cpp.obj	eb32076e7a559b3
+725	3376	7806942431564131	CMakeFiles/appStopwatch.dir/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/.rcc/qmlcache/appStopwatch_Main_qml.cpp.obj	c07b2217f2029872
+3376	3728	7806942458072927	appStopwatch.exe	aa2fee74857740fa
