@@ -3,6 +3,110 @@
         "moduleFiles": [
             {
                 "entries": [
+                    {
+                        "codegenSuccessful": false,
+                        "column": 18,
+                        "durationMicroseconds": 149,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: rootWindow",
+                        "functionName": "running",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 22,
+                        "durationMicroseconds": 70,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: rootWindow",
+                        "functionName": "onTriggered",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 218,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 34,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"horizontalAlignment\".",
+                        "functionName": "horizontalAlignment",
+                        "line": 43
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 32,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"verticalAlignment\".",
+                        "functionName": "verticalAlignment",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 23,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"wrapMode\".",
+                        "functionName": "wrapMode",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 19,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"text\".",
+                        "functionName": "text",
+                        "line": 50
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 37,
+                        "durationMicroseconds": 34,
+                        "errorMessage": "Cannot access value for name implicitHeight",
+                        "functionName": "preferredHeight",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 29,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"pixelSize\".",
+                        "functionName": "pixelSize",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 23,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"text\".",
+                        "functionName": "text",
+                        "line": 75
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 28,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 77
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 26,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"enabled\".",
+                        "functionName": "enabled",
+                        "line": 82
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 28,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 84
+                    }
                 ],
                 "filePath": "C:/Users/ImranHossain/Documents/Qt/Stopwatch/Main.qml"
             }
