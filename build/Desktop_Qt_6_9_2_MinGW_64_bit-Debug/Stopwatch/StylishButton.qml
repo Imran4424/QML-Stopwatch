@@ -38,7 +38,7 @@ Button {
     // Simple background (no Gradient — keeps parsers happy)
     background: Rectangle {
         radius: _radius
-        color: root.enabled ? _bg : "#E5E7EB"
+        color: root.enabled ? _bg : "#DE3163"
         border.width: variant === "outline" ? 1 : 0
         border.color: variant === "outline" ? "#CBD5E1" : "transparent"
     }
