@@ -1,6 +1,7 @@
 <RCC>
   <qresource prefix="/qt/qml/Stopwatch/">
     <file alias="Main.qml">C:/Users/ImranHossain/Documents/Qt/Stopwatch/Main.qml</file>
+    <file alias="StylishButton.qml">C:/Users/ImranHossain/Documents/Qt/Stopwatch/StylishButton.qml</file>
   </qresource>
 </RCC>
 

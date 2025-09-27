@@ -1,6 +1,7 @@
 import QtQuick
 import QtQuick.Controls
 import QtQuick.Layouts
+// import "StylishButton.qml" as StylishButton
 
 // ApplicationWindow is always preferred over window
 ApplicationWindow {
@@ -71,16 +72,18 @@ ApplicationWindow {
             Layout.fillWidth: true
             spacing: 12
 
-            Button {
+            StylishButton {
                 text: rootWindow.isRunning ? "Pause" : "Start"
                 Layout.fillWidth: true
+                variant: "primary"
                 onClicked: rootWindow.isRunning = !rootWindow.isRunning
             }
 
-            Button {
+            StylishButton {
                 text: "Reset"
                 enabled: !rootWindow.isRunning && rootWindow.elapsedMiliSeconds > 0
                 Layout.fillWidth: true
+                variant: "danger"
                 onClicked: rootWindow.elapsedMiliSeconds = 0
             }
         }
